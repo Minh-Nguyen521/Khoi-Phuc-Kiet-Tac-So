@@ -19,7 +19,7 @@ PH, PW = 120, 120
 N = R * C
 
 # Đọc và cắt ảnh
-shuffled = cv2.imread("./data/public_test/shuffled_3x5.png")
+shuffled = cv2.imread("./data/public_test/van.png")
 if shuffled is None:
     print("❌ Không thể đọc ảnh!")
     exit(1)
