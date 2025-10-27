@@ -1,4 +1,4 @@
 # Khoi-Phuc-Kiet-Tac-So
 
 # Result
-comparison_final.png
+![Comparison Final](comparison_final.png)
